@@ -13,8 +13,8 @@
 | _Lab 2: Build a Docker image and push to the registry_ | Eduardo | 30 min | [Red Hat Partnership](presentations/IBM%20-%20RedHat%20Partnership.pptx) |
 | Kubernetes basics | Victor | 1 hour | [ICP Architecture](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/violet-architecture-v1.1.pptx?raw=true) |
 | Helm basics | Sundar | 30 mins | [ICP Installation](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/02%20-%20IBM%20Cloud%20Private%20Installation.pptx) |
-| Creating a Helm  | Sundar | 2 hours | [Lab: ICP Installation](ICPCookbook-3.1.2.md) |
-| Private Cloud Sizing, Performance, and Scalability | Abott, Victor & Webb | 1 hour | [ICP Performance](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/violet-perf-size-scale-v1.0.pptx?raw=true) |
+| Creating a Helm chart  | Sundar | 2 hours | [Lab: ICP Installation](ICPCookbook-3.1.2.md) |
+| _Lab 3: Deploya Helm chart - NodeJS_ | Abott, Victor & Webb | 1 hour | [ICP Performance](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/violet-perf-size-scale-v1.0.pptx?raw=true) |
 | **Day 2: Infrastructure and Architecture** | | 6 hours | |
 | OpenShift Architecture | Red Hat SME | 1 hour | N/A |
 | OpenShift Installation | Eswara | 30 mins | [OpenShift Install](presentations/OpenShift-Install-v2.1.pptx) |
