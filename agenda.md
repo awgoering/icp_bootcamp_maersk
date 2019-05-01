@@ -7,8 +7,10 @@
 | --- | --- | --- | --- |
 | **Day 1: Fundamentals and Foundation Technologies** | | 7 hours | |
 | Welcome and Kickoff | Eduardo | 30 min | [ICP Introduction](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/00%20-%20Welcome%20and%20introduction%20-%204%20Day.pptx) |
-| Introduction to IBM Cloud Private | Victor | 90 mins | TBD |
-| _Lab 1: Build a Docker image and push to the registry_ | Eduardo | 30 min | [Red Hat Partnership](presentations/IBM%20-%20RedHat%20Partnership.pptx) |
+| Introduction to IBM Cloud Private | Victor | 60 mins | TBD |
+| _Lab 1: Console Treasure Hunt_ | Eduardo | 30 min | [Red Hat Partnership](presentations/IBM%20-%20RedHat%20Partnership.pptx) |
+| Containers and Docker | Victor | 1 hour | [ICP Architecture](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/violet-architecture-v1.1.pptx?raw=true) |
+| _Lab 2: Build a Docker image and push to the registry_ | Eduardo | 30 min | [Red Hat Partnership](presentations/IBM%20-%20RedHat%20Partnership.pptx) |
 | Kubernetes basics | Victor | 1 hour | [ICP Architecture](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/violet-architecture-v1.1.pptx?raw=true) |
 | Helm basics | Sundar | 30 mins | [ICP Installation](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/02%20-%20IBM%20Cloud%20Private%20Installation.pptx) |
 | Creating a Helm  | Sundar | 2 hours | [Lab: ICP Installation](ICPCookbook-3.1.2.md) |
