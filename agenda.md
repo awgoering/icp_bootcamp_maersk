@@ -6,15 +6,15 @@
 | Module | Owner | Duration | Link
 | --- | --- | --- | --- |
 | **Day 1: Fundamentals and Foundation Technologies** | | 7 hours | |
-| Welcome and Kickoff | Eduardo | 30 min | [ICP Introduction](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/00%20-%20Welcome%20and%20introduction%20-%204%20Day.pptx) |
-| Introduction to IBM Cloud Private | Victor | 60 mins | TBD |
-| _Lab 1: Console Treasure Hunt_ | Eduardo | 30 min | [Red Hat Partnership](presentations/IBM%20-%20RedHat%20Partnership.pptx) |
-| Containers and Docker | Victor | 1 hour | [ICP Architecture](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/violet-architecture-v1.1.pptx?raw=true) |
-| _Lab 2: Build a Docker image and push to the registry_ | Eduardo | 30 min | [Red Hat Partnership](presentations/IBM%20-%20RedHat%20Partnership.pptx) |
-| Kubernetes basics | Victor | 1 hour | [ICP Architecture](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/violet-architecture-v1.1.pptx?raw=true) |
-| Helm basics | Sundar | 30 mins | [ICP Installation](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/02%20-%20IBM%20Cloud%20Private%20Installation.pptx) |
-| Creating a Helm chart  | Sundar | 2 hours | [Lab: ICP Installation](ICPCookbook-3.1.2.md) |
-| _Lab 3: Deploya Helm chart - NodeJS_ | Abott, Victor & Webb | 1 hour | [ICP Performance](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/violet-perf-size-scale-v1.0.pptx?raw=true) |
+| Welcome and Kickoff | Eric or George | 30 min | [ICP Introduction](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/00%20-%20Welcome%20and%20introduction%20-%204%20Day.pptx) |
+| Introduction to IBM Cloud Private | Eric or George | 60 mins | TBD |
+| _Lab 1: Console Treasure Hunt_ | Eric or George | 30 min | [Red Hat Partnership](presentations/IBM%20-%20RedHat%20Partnership.pptx) |
+| Containers and Docker | Eric or George | 60 mins | [ICP Architecture](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/violet-architecture-v1.1.pptx?raw=true) |
+| _Lab 2: Build a Docker image and push to the registry_ | Eric or George | 30 min | [Red Hat Partnership](presentations/IBM%20-%20RedHat%20Partnership.pptx) |
+| Kubernetes basics | Eric or George | 60 mins | [ICP Architecture](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/violet-architecture-v1.1.pptx?raw=true) |
+| Helm basics | Eric or George | 60 mins | [ICP Installation](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/02%20-%20IBM%20Cloud%20Private%20Installation.pptx) |
+| Creating a Helm chart  | Eric or George | 30 mins | [Lab: ICP Installation](ICPCookbook-3.1.2.md) |
+| _Lab 3: Deploya Helm chart - NodeJS_ | Eric or George | 60 mins | [ICP Performance](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/violet-perf-size-scale-v1.0.pptx?raw=true) |
 | **Day 2: Infrastructure and Architecture** | | 6 hours | |
 | OpenShift Architecture | Red Hat SME | 1 hour | N/A |
 | OpenShift Installation | Eswara | 30 mins | [OpenShift Install](presentations/OpenShift-Install-v2.1.pptx) |
