@@ -6,12 +6,12 @@
 | Module | Owner | Duration | Link
 | --- | --- | --- | --- |
 | **Day 1: Fundamentals and Foundation Technologies** | | 7 hours | |
-| Introduction | Eduardo | 30 min | [ICP Introduction](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/00%20-%20Welcome%20and%20introduction%20-%204%20Day.pptx) |
-| Container, Kubernetes, and Helm 101 | Victor | 90 mins | TBD |
-| RedHat Partnership | Eduardo | 30 min | [Red Hat Partnership](presentations/IBM%20-%20RedHat%20Partnership.pptx) |
-| ICP Architecture | Victor | 1 hour | [ICP Architecture](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/violet-architecture-v1.1.pptx?raw=true) |
-| ICP Installation | Sundar | 30 mins | [ICP Installation](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/02%20-%20IBM%20Cloud%20Private%20Installation.pptx) |
-| _Lab 1: ICP Installation_ | Sundar | 2 hours | [Lab: ICP Installation](ICPCookbook-3.1.2.md) |
+| Welcome and Kickoff | Eduardo | 30 min | [ICP Introduction](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/00%20-%20Welcome%20and%20introduction%20-%204%20Day.pptx) |
+| Introduction to IBM Cloud Private | Victor | 90 mins | TBD |
+| _Lab 1: Build a Docker image and push to the registry_ | Eduardo | 30 min | [Red Hat Partnership](presentations/IBM%20-%20RedHat%20Partnership.pptx) |
+| Kubernetes basics | Victor | 1 hour | [ICP Architecture](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/violet-architecture-v1.1.pptx?raw=true) |
+| Helm basics | Sundar | 30 mins | [ICP Installation](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/02%20-%20IBM%20Cloud%20Private%20Installation.pptx) |
+| Creating a Helm  | Sundar | 2 hours | [Lab: ICP Installation](ICPCookbook-3.1.2.md) |
 | Private Cloud Sizing, Performance, and Scalability | Abott, Victor & Webb | 1 hour | [ICP Performance](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/violet-perf-size-scale-v1.0.pptx?raw=true) |
 | **Day 2: Infrastructure and Architecture** | | 6 hours | |
 | OpenShift Architecture | Red Hat SME | 1 hour | N/A |
@@ -29,7 +29,7 @@
 | _Lab 5: ICP Deploy a Simple Helm Chart: NodeJS Sample_ | Webb | 30 mins |  [Lab: ICP Deploy](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/ICPDeploySampleApp.md) [Presentation](presentations/Day%203%20-%20NodeJs%20Deployment%20Lab.pptx) |
 | Private Cloud Security | Abbott | 1 hour | [ICP Security](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/Violet%20-%20Private%20Cloud%20Security.pptx) |
 | _Lab 6: LDAP Configuration_ | Webb | 30 mins | [Lab: LDAP](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs/Lab%2006%20OpenLDAP.md) [Presentation](presentations/Day%204%20-%20RBAC%20with%20LDAP%20Lab.pptx)|
-| **Day 4: DevOps and Development** | | 7 hours | |
+| **Day 4: DevOps and Development** | | 7.5 hours | |
 | Application Modernization | Yaro | 1 hour | [AppMod](presentations/Application_Modernization_Mar2019.pptx)|
 |  CI / CD in ICP | Fabio | 1 hour | [CI/CD](presentations/15%20-%20CI-CD%20in%20ICP%20-%20original.pdf) |
 | _Lab 7: DevOps CI/CD pipeline for ICP_ | Fabio | 45 mins |  [Lab: CI/CD](https://github.ibm.com/CASE/redcompute-icp-openshift/blob/master/learning/lab7_cicd_pipeline_with_icp.md) |
