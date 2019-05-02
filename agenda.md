@@ -16,12 +16,12 @@
 | Creating a Helm chart  | Eric or George | 30 mins | [Lab: ICP Installation](ICPCookbook-3.1.2.md) |
 | _Lab 3: Deploya Helm chart - NodeJS_ | Eric or George | 60 mins | [ICP Performance](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/violet-perf-size-scale-v1.0.pptx?raw=true) |
 | **Day 2: Infrastructure and Architecture** | | 6 hours | |
-| OpenShift Architecture | Red Hat SME | 1 hour | N/A |
-| OpenShift Installation | Eswara | 30 mins | [OpenShift Install](presentations/OpenShift-Install-v2.1.pptx) |
-| _Lab 2: OpenShift Installation_ | Eswara | 2 hours | [Lab: OpenShift Installation](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/OpenShiftCookbook.md) |
-| _Lab 3: OpenShift: Deploy application_ | Eduardo | 30 mins | [Lab: Openshift Deploy App](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/OpenshiftDeploySampleApp.md) |
-| OpenShift 4 Architecture | Nate | 1 hour | TBD |
-| OpenShift Demo | Nate | 1 hour | TBD |
+| IBM Cloud Private Architecture | Eric or George | 1 hour | N/A |
+| IBM Cloud Private Performance and Sizing | Eric or George | 30 mins | [OpenShift Install](presentations/OpenShift-Install-v2.1.pptx) |
+| IBM Cloud Private Storage | Eric or George | 2 hours | [Lab: OpenShift Installation](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/OpenShiftCookbook.md) |
+| Backup and Restore | Eric or George | 30 mins | [Lab: Openshift Deploy App](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/OpenshiftDeploySampleApp.md) |
+| Introduction to ICP Networking | Eric or George | 1 hour | TBD |
+| Kubernetes Resiliency | Eric or George | 1 hour | TBD |
 | **Day 3: Operations and Troubleshooting**| | 6 hours | |
 | Private Cloud Storage | Victor | 1 hour | [ICP Storage](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/violet-storage-v1.0.pptx?raw=true) |
 | _Lab 4: ICP Docker Registry_ | Webb | 30 min | [Lab: ICP Docker Registry](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs/Lab%2002%20Private%20Docker%20Registry.md) [Presentation](presentations/Docker_Registry_Lab.pptx)|
