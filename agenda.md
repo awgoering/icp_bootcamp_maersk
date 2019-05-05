@@ -31,14 +31,14 @@
 | Cloud Automation Manager | Eric or George | 60 mins |  [Lab: ICP Deploy](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/ICPDeploySampleApp.md) [Presentation](presentations/Day%203%20-%20NodeJs%20Deployment%20Lab.pptx) |
 | Multicloud Manager | Eric or George | 60 mins | [ICP Security](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/Violet%20-%20Private%20Cloud%20Security.pptx) |
 | **Day 4: DevOps and Development** | | 7.5 hours | |
-| Continous integration/Continuous deployment (CI/CD) | Eric or George | 1 hour | [AppMod](presentations/Application_Modernization_Mar2019.pptx)|
-|  _Set up a CI/CD pipeline on IBM Cloud Private using Jenkins to deploy a simple web application_ | Eric or George | 1 hour | [CI/CD](presentations/15%20-%20CI-CD%20in%20ICP%20-%20original.pdf) |
-| IBM Application Modernization | Eric or George | 45 mins |  [Lab: CI/CD](https://github.ibm.com/CASE/redcompute-icp-openshift/blob/master/learning/lab7_cicd_pipeline_with_icp.md) |
-| Introduction to Microservices | Eric or George | 1 hour | TBD |
-| _Refactor monolith into microservices_ | Eric or George | 1 hour | TBD |
-| _Build and deploy a polyglot microservices application to Kubernetes_ | Eric or George | 1 hour | [ICP Istio](presentations/Day%204%20-%20RBAC%20with%20LDAP%20Lab.pptx) |
-| Introduction to Microservice Mesh (Istio) | Eric or George | 1 hour | [ICP Troubleshooting](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/violet-troubleshooting-v1.1.pptx?raw=true) |
-| _Istio_ | Eric or George | 1 hour | [ICP Istio](presentations/Day%204%20-%20RBAC%20with%20LDAP%20Lab.pptx) |
+| Continous integration/Continuous deployment (CI/CD) | Eric or George | 30 mins | [AppMod](presentations/Application_Modernization_Mar2019.pptx)|
+|  _Lab 7: Set up a CI/CD pipeline on IBM Cloud Private using Jenkins to deploy a simple web application_ | Eric or George | 60 mins | [CI/CD](presentations/15%20-%20CI-CD%20in%20ICP%20-%20original.pdf) |
+| IBM Application Modernization | Eric or George | 60 mins |  [Lab: CI/CD](https://github.ibm.com/CASE/redcompute-icp-openshift/blob/master/learning/lab7_cicd_pipeline_with_icp.md) |
+| Introduction to Microservices | Eric or George | 90 mins | TBD |
+| _Lab 8: Refactor monolith into microservices_ | Eric or George | 60 mins | TBD |
+| _Lab 9: Build and deploy a polyglot microservices application to Kubernetes_ | Eric or George | 60 mins | [ICP Istio](presentations/Day%204%20-%20RBAC%20with%20LDAP%20Lab.pptx) |
+| Introduction to Microservice Mesh (Istio) | Eric or George | 30 mins | [ICP Troubleshooting](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/violet-troubleshooting-v1.1.pptx?raw=true) |
+| _Lab 10: Istio_ | Eric or George | 60 mins | [ICP Istio](presentations/Day%204%20-%20RBAC%20with%20LDAP%20Lab.pptx) |
 | Course conclusion | Eric or George | 15 minutes | [ICP Troubleshooting](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/violet-troubleshooting-v1.1.pptx?raw=true) |
 
 
