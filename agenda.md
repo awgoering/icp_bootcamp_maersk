@@ -23,13 +23,13 @@
 | Introduction to ICP Networking | Eric or George | 1 hour | TBD |
 | Kubernetes Resiliency | Eric or George | 1 hour | TBD |
 | **Day 3: Operations and Troubleshooting**| | 6 hours | |
-| Private Cloud Storage | Eric or George | 1 hour | [ICP Storage](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/violet-storage-v1.0.pptx?raw=true) |
-| _Lab 4: ICP Docker Registry_ | Eric or George | 30 min | [Lab: ICP Docker Registry](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs/Lab%2002%20Private%20Docker%20Registry.md) [Presentation](presentations/Docker_Registry_Lab.pptx)|
-| Private Cloud HA & DR  | Eric or George | 1 hour | [HA](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/HADR%20aspects.pptx) |
-| Availability | Eric or George | 30 mins | [Availability](presentations/Availability%20in%20a%20Cloud%20Native%20World%20v1.4.pptx) |
-| Private Cloud Network | Eric or George | 1 hour | [ICP Network](presentations/ICP%20Network.pptx) |
-| _Lab 5: ICP Deploy a Simple Helm Chart: NodeJS Sample_ | Eric or George | 30 mins |  [Lab: ICP Deploy](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/ICPDeploySampleApp.md) [Presentation](presentations/Day%203%20-%20NodeJs%20Deployment%20Lab.pptx) |
-| Private Cloud Security | Eric or George | 1 hour | [ICP Security](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/Violet%20-%20Private%20Cloud%20Security.pptx) |
+| Security | Eric or George | 60 mins | [ICP Storage](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/violet-storage-v1.0.pptx?raw=true) |
+| _Lab 4: ICP LDAP Integration_ | Eric or George | 30 mins | [Lab: ICP Docker Registry](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs/Lab%2002%20Private%20Docker%20Registry.md) [Presentation](presentations/Docker_Registry_Lab.pptx)|
+| Logging and Monitoring  | Eric or George | 60 mins | [HA](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/HADR%20aspects.pptx) |
+| _Log Monitoring_ | Eric or George | 60 mins | [Availability](presentations/Availability%20in%20a%20Cloud%20Native%20World%20v1.4.pptx) |
+| _Advanced Log Monitoring_ | Eric or George | 30 mins | [ICP Network](presentations/ICP%20Network.pptx) |
+| Cloud Automation Manager | Eric or George | 60 mins |  [Lab: ICP Deploy](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/ICPDeploySampleApp.md) [Presentation](presentations/Day%203%20-%20NodeJs%20Deployment%20Lab.pptx) |
+| Multicloud Manager | Eric or George | 60 mins | [ICP Security](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/Violet%20-%20Private%20Cloud%20Security.pptx) |
 | _Lab 6: LDAP Configuration_ | Eric or George | 30 mins | [Lab: LDAP](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs/Lab%2006%20OpenLDAP.md) [Presentation](presentations/Day%204%20-%20RBAC%20with%20LDAP%20Lab.pptx)|
 | **Day 4: DevOps and Development** | | 7.5 hours | |
 | Application Modernization | Eric or George | 1 hour | [AppMod](presentations/Application_Modernization_Mar2019.pptx)|
