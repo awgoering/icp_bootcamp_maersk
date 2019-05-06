@@ -3,8 +3,8 @@
 ## Maersk May 13 - 17, 2019
 
 
-| Module | Owner | Duration | Student Link
-| --- | --- | --- | --- |
+| Module | Owner | Duration | Student Link | Instructor Link
+| --- | --- | --- | --- | --- |
 | **Day 1: Fundamentals and Foundation Technologies** | | 7 hours | |
 | Welcome and Kickoff | Eric or George | 30 min | [ICP Introduction](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/00%20-%20Welcome%20and%20introduction%20-%204%20Day.pptx) |
 | Introduction to IBM Cloud Private | Eric or George | 60 mins | TBD |
