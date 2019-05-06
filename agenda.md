@@ -7,7 +7,7 @@
 | --- | --- | --- | --- | --- |
 | **Day 1: Fundamentals and Foundation Technologies** | | 7 hours | |
 | Welcome and Kickoff | Eric or George | 30 min | No link | No link |
-| Introduction to IBM Cloud Private | Eric or George | 60 mins | [Introduction to IBM Cloud Private] (https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/01%20-%20Introduction%20to%20IBM%20Cloud%20Private%20v1.0.1.pdf ) | [Introduction to IBM Cloud Private](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Unit-Presentations/01%20-%20Introduction%20to%20IBM%20Cloud%20Private%20v1.0.1.pptx ) |
+| Introduction to IBM Cloud Private | Eric or George | 60 mins | [Introduction to IBM Cloud Private] (https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/01%20-%20Introduction%20to%20IBM%20Cloud%20Private%20v1.0.1.pdf ) | [Introduction to IBM Cloud Private](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Unit-Presentations/01%20-%20Introduction%20to%20IBM%20Cloud%20Private%20v1.0.1.pptx )|
 | _Lab 1: Console Treasure Hunt_ | Eric or George | 30 min | [Red Hat Partnership](presentations/IBM%20-%20RedHat%20Partnership.pptx) |
 | Containers and Docker | Eric or George | 60 mins | [ICP Architecture](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/violet-architecture-v1.1.pptx?raw=true) |
 | _Lab 2: Build a Docker image and push to the registry_ | Eric or George | 30 min | [Red Hat Partnership](presentations/IBM%20-%20RedHat%20Partnership.pptx) |
