@@ -6,7 +6,7 @@
 | Module | Owner | Duration | Student Link | Instructor Link
 | --- | --- | --- | --- | --- |
 | **Day 1: Fundamentals and Foundation Technologies** | | 7 hours | |
-| Welcome and Kickoff | Eric or George | 30 min | No link | No link \
+| Welcome and Kickoff | Eric or George | 30 min | No link | No link |
 | Introduction to IBM Cloud Private | Eric or George | 60 mins | TBD |
 | _Lab 1: Console Treasure Hunt_ | Eric or George | 30 min | [Red Hat Partnership](presentations/IBM%20-%20RedHat%20Partnership.pptx) |
 | Containers and Docker | Eric or George | 60 mins | [ICP Architecture](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/violet-architecture-v1.1.pptx?raw=true) |
