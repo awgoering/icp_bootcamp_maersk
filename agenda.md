@@ -28,8 +28,8 @@
 | Logging and Monitoring  | Eric or George | 60 mins | [Debugging and Monitoring with IBM Cloud Private](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/13%20-%20ICP%20Logging%20and%20Monitoring.pdf) |
 | _Lab 5: Log Monitoring_ | Eric or George | 60 mins | [Availability](presentations/Availability%20in%20a%20Cloud%20Native%20World%20v1.4.pptx) |
 | _Lab 6: Advanced Log Monitoring_ | Eric or George | 30 mins | [ICP Network](presentations/ICP%20Network.pptx) |
-| Cloud Automation Manager | Eric or George | 60 mins |  [Lab: ICP Deploy](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/ICPDeploySampleApp.md) [Presentation](presentations/Day%203%20-%20NodeJs%20Deployment%20Lab.pptx) |
-| Multicloud Manager | Eric or George | 60 mins | [ICP Security](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/Violet%20-%20Private%20Cloud%20Security.pptx) |
+| Cloud Automation Manager | Eric or George | 60 mins |  [Cloud Automation Manager](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/21%20-%20Cloud%20Automation%20Manager%201.0.1.pdf) |
+| Multi Cloud Manager | Eric or George | 60 mins | [Multi Cloud Manager](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/23%20%20Multi%20Cloud%20Manager%20-%20Addendum%20to%20ICP%20Architecture.pdf) |
 | **Day 4: DevOps and Development** | | 7.5 hours | |
 | Continous integration/Continuous deployment (CI/CD) | Eric or George | 30 mins | [AppMod](presentations/Application_Modernization_Mar2019.pptx)|
 |  _Lab 7: Set up a CI/CD pipeline on IBM Cloud Private using Jenkins to deploy a simple web application_ | Eric or George | 60 mins | [CI/CD](presentations/15%20-%20CI-CD%20in%20ICP%20-%20original.pdf) |
