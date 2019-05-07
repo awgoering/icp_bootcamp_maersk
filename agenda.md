@@ -24,21 +24,21 @@
 | Kubernetes Resiliency | Eric or George | 1 hour | Kubernetes Resiliency |
 | **Day 3: Operations and Troubleshooting**| | 6 hours | |
 | Security | Eric or George | 60 mins | [IBM Cloud Private Security](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/12%20-%20ICP%20Security%20v1.0.1.pdf) |
-| _Lab 4: ICP LDAP Integration_ | Eric or George | 30 mins | [Lab: ICP Docker Registry](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs/Lab%2002%20Private%20Docker%20Registry.md) [Presentation](presentations/Docker_Registry_Lab.pptx)|
+| _Lab 4: ICP LDAP Integration_ | Eric or George | 30 mins | [Lab: ](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs/Lab%2002%20Private%20Docker%20Registry.md) [Presentation](presentations/Docker_Registry_Lab.pptx)|
 | Logging and Monitoring  | Eric or George | 60 mins | [Debugging and Monitoring with IBM Cloud Private](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/13%20-%20ICP%20Logging%20and%20Monitoring.pdf) |
-| _Lab 5: Log Monitoring_ | Eric or George | 60 mins | [Availability](presentations/Availability%20in%20a%20Cloud%20Native%20World%20v1.4.pptx) |
-| _Lab 6: Advanced Log Monitoring_ | Eric or George | 30 mins | [ICP Network](presentations/ICP%20Network.pptx) |
+| _Lab 5: Log Monitoring_ | Eric or George | 60 mins | [Lab:](presentations/Availability%20in%20a%20Cloud%20Native%20World%20v1.4.pptx) |
+| _Lab 6: Advanced Log Monitoring_ | Eric or George | 30 mins | [Lab:](presentations/ICP%20Network.pptx) |
 | Cloud Automation Manager | Eric or George | 60 mins |  [Cloud Automation Manager](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/21%20-%20Cloud%20Automation%20Manager%201.0.1.pdf) |
 | Multi Cloud Manager | Eric or George | 60 mins | [Multi Cloud Manager](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/23%20%20Multi%20Cloud%20Manager%20-%20Addendum%20to%20ICP%20Architecture.pdf) |
 | **Day 4: DevOps and Development** | | 7.5 hours | |
 | Continous integration/Continuous deployment (CI/CD) | Eric or George | 30 mins | [AppMod](presentations/Application_Modernization_Mar2019.pptx)|
-|  _Lab 7: Set up a CI/CD pipeline on IBM Cloud Private using Jenkins to deploy a simple web application_ | Eric or George | 60 mins | [CI/CD](presentations/15%20-%20CI-CD%20in%20ICP%20-%20original.pdf) |
+|  _Lab 7: Set up a CI/CD pipeline on IBM Cloud Private using Jenkins to deploy a simple web application_ | Eric or George | 60 mins | [Lab:](presentations/15%20-%20CI-CD%20in%20ICP%20-%20original.pdf) |
 | IBM Application Modernization | Eric or George | 60 mins |  [Lab: CI/CD](https://github.ibm.com/CASE/redcompute-icp-openshift/blob/master/learning/lab7_cicd_pipeline_with_icp.md) |
 | Introduction to Microservices | Eric or George | 90 mins | TBD |
-| _Lab 8: Refactor monolith into microservices_ | Eric or George | 60 mins | TBD |
-| _Lab 9: Build and deploy a polyglot microservices application to Kubernetes_ | Eric or George | 60 mins | [ICP Istio](presentations/Day%204%20-%20RBAC%20with%20LDAP%20Lab.pptx) |
+| _Lab 8: Refactor monolith into microservices_ | Eric or George | 60 mins | Lab: |
+| _Lab 9: Build and deploy a polyglot microservices application to Kubernetes_ | Eric or George | 60 mins | [Lab:](presentations/Day%204%20-%20RBAC%20with%20LDAP%20Lab.pptx) |
 | Introduction to Microservice Mesh (Istio) | Eric or George | 30 mins | [ICP Troubleshooting](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/violet-troubleshooting-v1.1.pptx?raw=true) |
-| _Lab 10: Istio_ | Eric or George | 60 mins | [ICP Istio](presentations/Day%204%20-%20RBAC%20with%20LDAP%20Lab.pptx) |
+| _Lab 10: Istio_ | Eric or George | 60 mins | [Lab:](presentations/Day%204%20-%20RBAC%20with%20LDAP%20Lab.pptx) |
 | Course conclusion | Eric or George | 15 minutes | [ICP Troubleshooting](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/violet-troubleshooting-v1.1.pptx?raw=true) |
 
 
