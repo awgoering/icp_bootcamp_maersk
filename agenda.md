@@ -23,9 +23,9 @@
 | Introduction to ICP Networking | Eric or George | 1 hour | [IBM Cloud Private Network](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/11%20-%20ICP%20Network%20v1.0.1.pdf)|
 | Kubernetes Resiliency | Eric or George | 1 hour | Kubernetes Resiliency |
 | **Day 3: Operations and Troubleshooting**| | 6 hours | |
-| Security | Eric or George | 60 mins | [ICP Storage](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/violet-storage-v1.0.pptx?raw=true) |
+| Security | Eric or George | 60 mins | [IBM Cloud Private Security](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/12%20-%20ICP%20Security%20v1.0.1.pdf) |
 | _Lab 4: ICP LDAP Integration_ | Eric or George | 30 mins | [Lab: ICP Docker Registry](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs/Lab%2002%20Private%20Docker%20Registry.md) [Presentation](presentations/Docker_Registry_Lab.pptx)|
-| Logging and Monitoring  | Eric or George | 60 mins | [HA](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/HADR%20aspects.pptx) |
+| Logging and Monitoring  | Eric or George | 60 mins | [Debugging and Monitoring with IBM Cloud Private](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/13%20-%20ICP%20Logging%20and%20Monitoring.pdf) |
 | _Lab 5: Log Monitoring_ | Eric or George | 60 mins | [Availability](presentations/Availability%20in%20a%20Cloud%20Native%20World%20v1.4.pptx) |
 | _Lab 6: Advanced Log Monitoring_ | Eric or George | 30 mins | [ICP Network](presentations/ICP%20Network.pptx) |
 | Cloud Automation Manager | Eric or George | 60 mins |  [Lab: ICP Deploy](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/ICPDeploySampleApp.md) [Presentation](presentations/Day%203%20-%20NodeJs%20Deployment%20Lab.pptx) |
