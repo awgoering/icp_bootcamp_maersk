@@ -17,9 +17,9 @@
 | _Lab 3: Deploy a Helm chart - NodeJS_ | Eric or George | 60 mins | [Deploy a simple Helm chart: NodeJS Sample](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/labs/Lab%2005%20Deploy%20NodeJS%20Helm.md) |  [Deploy a simple Helm chart: NodeJS Sample](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/labs/Lab%2005%20Deploy%20NodeJS%20Helm.md) |
 | **Day 2: Infrastructure and Architecture** | | 6 hours | |
 | IBM Cloud Private Architecture | Eric or George | 1 hour | [IBM Cloud Private Architecture](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/07%20-%20ICP%20Architecture%20v1.0.1.pdf) |  [IBM Cloud Private Architecture](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Unit-Presentations/07%20-%20ICP%20Architecture%20v1.0.1.pptx) |
-| IBM Cloud Private Performance and Sizing | Eric or George | 30 mins | [OpenShift Install](presentations/OpenShift-Install-v2.1.pptx) |
-| IBM Cloud Private Storage | Eric or George | 2 hours | [Lab: OpenShift Installation](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/OpenShiftCookbook.md) |
-| Backup and Restore | Eric or George | 30 mins | [Lab: Openshift Deploy App](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/OpenshiftDeploySampleApp.md) |
+| IBM Cloud Private Performance and Sizing | Eric or George | 30 mins | [IBM Cloud Private Performance and Sizing](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/08%20-%20ICP%20Performance%20and%20Sizing.pdf) |
+| IBM Cloud Private Storage | Eric or George | 2 hours | [IBM Cloud Private Storage](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/09%20-%20ICP%20Storage%20v1.0.1.pdf) |
+| Backup and Restore | Eric or George | 30 mins | [IBM Cloud Private Backup and Restore Strategy](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/10%20-%20ICP%20Backup%20%26%20Restore%20Strategy%20v1.0.1.pdf) |
 | Introduction to ICP Networking | Eric or George | 1 hour | TBD |
 | Kubernetes Resiliency | Eric or George | 1 hour | TBD |
 | **Day 3: Operations and Troubleshooting**| | 6 hours | |
