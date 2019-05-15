@@ -31,7 +31,7 @@
 | Cloud Automation Manager | Eric or George | 60 mins |  [Cloud Automation Manager](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/21%20-%20Cloud%20Automation%20Manager%201.0.1.pdf) |
 | Multi Cloud Manager | Eric or George | 60 mins | [Multi Cloud Manager](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/23%20%20Multi%20Cloud%20Manager%20-%20Addendum%20to%20ICP%20Architecture.pdf) |
 | **Day 4: DevOps and Development** | | 7.5 hours | |
-| Continous integration/Continuous deployment (CI/CD) | Eric or George | 30 mins | [AppMod](presentations/Application_Modernization_Mar2019.pptx)|
+| Continous integration/Continuous deployment (CI/CD) | Eric or George | 30 mins | [Continuous integration/Continuous deployment](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/15%20-%20CI-CD%20in%20ICP.pdf)|
 |  _Lab 7: Set up a CI/CD pipeline on IBM Cloud Private using Jenkins to deploy a simple web application_ | Eric or George | 60 mins | [Lab:](presentations/15%20-%20CI-CD%20in%20ICP%20-%20original.pdf) |
 | IBM Application Modernization | Eric or George | 60 mins |  [Lab: CI/CD](https://github.ibm.com/CASE/redcompute-icp-openshift/blob/master/learning/lab7_cicd_pipeline_with_icp.md) |
 | Introduction to Microservices | Eric or George | 90 mins | TBD |
