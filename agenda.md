@@ -39,6 +39,6 @@
 | _Lab 9: Build and deploy a polyglot microservices application to Kubernetes_ | Eric or George | 60 mins | [Lab:](presentations/Day%204%20-%20RBAC%20with%20LDAP%20Lab.pptx) |
 | Introduction to Microservice Mesh (Istio) | Eric or George | 30 mins | [ICP Troubleshooting](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/violet-troubleshooting-v1.1.pptx?raw=true) |
 | _Lab 10: Istio_ | Eric or George | 60 mins | [Working with Istio](https://github.ibm.com/ibm-cloud-academy/content/blob/master/Application_Architecture/Microservices/istio-1.0-lab.pdf) | [Working with Istio](https://github.ibm.com/ibm-cloud-academy/content/blob/master/Application_Architecture/Microservices/istio-1.0-lab.pdf) |
-| Course conclusion | Eric or George | 15 minutes | [ICP Troubleshooting](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/violet-troubleshooting-v1.1.pptx?raw=true) |
+| Course conclusion | Eric or George | 15 minutes | | |
 
 
