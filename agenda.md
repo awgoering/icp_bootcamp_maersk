@@ -35,7 +35,7 @@
 |  _Lab 7: Set up a CI/CD pipeline on IBM Cloud Private using Jenkins to deploy a simple web application_ | Eric or George | 60 mins | [Lab: Setting up a Jenkins environment in IBM Cloud Private](https://github.ibm.com/ibm-cloud-academy/content/blob/master/Compute_Model/Containers/ICP-entdev/3.2-Jenkins.pdf) | [Lab: Setting up a Jenkins environment in IBM Cloud Private](https://github.ibm.com/ibm-cloud-academy/content/blob/master/Compute_Model/Containers/ICP-entdev/3.2-Jenkins.pdf) |
 | IBM Application Modernization | Eric or George | 60 mins |  [Lab: CI/CD](https://github.ibm.com/CASE/redcompute-icp-openshift/blob/master/learning/lab7_cicd_pipeline_with_icp.md) |
 | Introduction to Microservices | Eric or George | 90 mins | TBD |
-| _Lab 8: Refactor monolith into microservices_ | Eric or George | 60 mins | Lab: |
+| _Lab 8: Refactor monolith into microservices_ | Eric or George | 60 mins | [Lab: Designing Microservices](https://github.ibm.com/ibm-cloud-academy/content/blob/master/Application_Architecture/Microservices/Design/Microservices-Design.pdf) | [Lab: Designing Microservices](https://github.ibm.com/ibm-cloud-academy/content/blob/master/Application_Architecture/Microservices/Design/Microservices-Design.pdf) |
 | _Lab 9: Build and deploy a polyglot microservices application to Kubernetes_ | Eric or George | 60 mins | [Lab:](presentations/Day%204%20-%20RBAC%20with%20LDAP%20Lab.pptx) |
 | Introduction to Microservice Mesh (Istio) | Eric or George | 30 mins | [ICP Troubleshooting](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/violet-troubleshooting-v1.1.pptx?raw=true) |
 | _Lab 10: Istio_ | Eric or George | 60 mins | [Lab:](presentations/Day%204%20-%20RBAC%20with%20LDAP%20Lab.pptx) |
