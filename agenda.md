@@ -24,7 +24,7 @@
 | Kubernetes Resiliency | Eric or George | 1 hour | Kubernetes Resiliency |
 | **Day 3: Operations and Troubleshooting**| | 6 hours | |
 | Security | Eric or George | 60 mins | [IBM Cloud Private Security](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/12%20-%20ICP%20Security%20v1.0.1.pdf) |
-| _Lab 4: ICP LDAP Integration_ | Eric or George | 30 mins | [Lab: ](https://github.ibm.com/CASE/cloud-private-bootcamp/blob/master/Labs/Lab%2002%20Private%20Docker%20Registry.md) [Presentation](presentations/Docker_Registry_Lab.pptx)|
+| _Lab 4: ICP LDAP Integration_ | Eric or George | 30 mins | [Lab: ](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/labs/Lab%2006%20OpenLDAP.md) [Lab: ](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/labs/Lab%2006%20OpenLDAP.md)|
 | Logging and Monitoring  | Eric or George | 60 mins | [Debugging and Monitoring with IBM Cloud Private](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/13%20-%20ICP%20Logging%20and%20Monitoring.pdf) |
 | _Lab 5: Log Monitoring_ | Eric or George | 60 mins | [Lab:](presentations/Availability%20in%20a%20Cloud%20Native%20World%20v1.4.pptx) |
 | _Lab 6: Advanced Log Monitoring_ | Eric or George | 30 mins | [Lab:](presentations/ICP%20Network.pptx) |
