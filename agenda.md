@@ -21,7 +21,7 @@
 | IBM Cloud Private Storage | Eric or George | 2 hours | [IBM Cloud Private Storage](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/09%20-%20ICP%20Storage%20v1.0.1.pdf) |
 | Backup and Restore | Eric or George | 30 mins | [IBM Cloud Private Backup and Restore Strategy](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/10%20-%20ICP%20Backup%20%26%20Restore%20Strategy%20v1.0.1.pdf) |
 | Introduction to ICP Networking | Eric or George | 1 hour | [IBM Cloud Private Network](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/11%20-%20ICP%20Network%20v1.0.1.pdf)|
-| Kubernetes Resiliency | Eric or George | 1 hour | No link |[HADR](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/HADR%20aspects.pptx)|
+| Kubernetes Resiliency | Eric or George | 1 hour | [HADR](https://github.com/awgoering/icp_bootcamp_maersk/blob/master/HADR%20aspects.pdf) |[HADR](https://github.ibm.com/CASE/violet-build-bootcamp/blob/master/presentations/HADR%20aspects.pptx)|
 | **Day 3: Operations and Troubleshooting**| | 6 hours | |
 | Security | Eric or George | 60 mins | [IBM Cloud Private Security](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/unit-presentations/12%20-%20ICP%20Security%20v1.0.1.pdf) |
 | _Lab 4: ICP LDAP Integration_ | Eric or George | 30 mins | [Configuring IBM Cloud Private to use OpenLDAP ](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/labs/Lab%2006%20OpenLDAP.md) | [Configuring IBM Cloud Private to use OpenLDAP ](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/blob/master/labs/Lab%2006%20OpenLDAP.md)|
